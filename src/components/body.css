@@ -4,22 +4,16 @@
     background:#ffedcd;
 }
 
-.bodyCon{
+ .bodyCon img{
     
-    font-size: 3vw;
+    font-size: 3vw; 
     border-bottom: 2px red solid;
     font-family: 'Coda Caption', sans-serif;
-    /* height: 50vw;
-    padding: 2rem; */
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  
-  
-    
-    
+     height: 50vw;
+    padding: 0rem;
+    max-width: 100%;
+
+   
 }
 
 .container .grid
@@ -31,9 +25,7 @@
         margin-bottom: 2rem;
       }
 
-.container:nth-child(even) img{
-    order: 2;
-}
+
 
 /* .container .grid img{
     height: 100%;
@@ -76,7 +68,7 @@
 
 }
 
-@media(max-width:600px){
+@media(max-width:768px){
     .container .grid{
         display: block;
     }
@@ -84,6 +76,10 @@
         max-width: 80%;
         margin: auto;
     }
+    .container .grid p{
+        font-size: 0.7em;
+    }
+
     
     
 

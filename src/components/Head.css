@@ -57,7 +57,7 @@ a:hover{
     transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
-@media(max-width:500px){
+@media(max-width:768px){
     .header{
         display:grid ;
         grid-template-columns: auto;
