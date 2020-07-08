@@ -2,7 +2,7 @@
   "name": "siddharth_ent",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://siddharthenterprise.github.io/",
+  "homepage": "https://siddharthenterprise.github.io/home/",
   "engines": {
     "node": "14.1.0",
     "npm": "6.14.5"
