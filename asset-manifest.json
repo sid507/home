@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/siddharthenterprise/home.github.io.git/static/css/main.fd5861b3.chunk.css",
+    "main.js": "/siddharthenterprise/home.github.io.git/static/js/main.d1056772.chunk.js",
+    "main.js.map": "/siddharthenterprise/home.github.io.git/static/js/main.d1056772.chunk.js.map",
+    "runtime-main.js": "/siddharthenterprise/home.github.io.git/static/js/runtime-main.0e94034e.js",
+    "runtime-main.js.map": "/siddharthenterprise/home.github.io.git/static/js/runtime-main.0e94034e.js.map",
+    "static/css/2.eb43dee1.chunk.css": "/siddharthenterprise/home.github.io.git/static/css/2.eb43dee1.chunk.css",
+    "static/js/2.ed406b10.chunk.js": "/siddharthenterprise/home.github.io.git/static/js/2.ed406b10.chunk.js",
+    "static/js/2.ed406b10.chunk.js.map": "/siddharthenterprise/home.github.io.git/static/js/2.ed406b10.chunk.js.map",
+    "index.html": "/siddharthenterprise/home.github.io.git/index.html",
+    "precache-manifest.e56192ac04bcc407cb4684c7c70d99f1.js": "/siddharthenterprise/home.github.io.git/precache-manifest.e56192ac04bcc407cb4684c7c70d99f1.js",
+    "service-worker.js": "/siddharthenterprise/home.github.io.git/service-worker.js",
+    "static/css/2.eb43dee1.chunk.css.map": "/siddharthenterprise/home.github.io.git/static/css/2.eb43dee1.chunk.css.map",
+    "static/css/main.fd5861b3.chunk.css.map": "/siddharthenterprise/home.github.io.git/static/css/main.fd5861b3.chunk.css.map",
+    "static/js/2.ed406b10.chunk.js.LICENSE.txt": "/siddharthenterprise/home.github.io.git/static/js/2.ed406b10.chunk.js.LICENSE.txt",
+    "static/media/3.jpg": "/siddharthenterprise/home.github.io.git/static/media/3.379a046d.jpg",
+    "static/media/4.jpg": "/siddharthenterprise/home.github.io.git/static/media/4.d1ee5feb.jpg",
+    "static/media/5.jpg": "/siddharthenterprise/home.github.io.git/static/media/5.55355a47.jpg",
+    "static/media/6.jpg": "/siddharthenterprise/home.github.io.git/static/media/6.5aec32bb.jpg",
+    "static/media/enox.jpg": "/siddharthenterprise/home.github.io.git/static/media/enox.dbd82634.jpg",
+    "static/media/logorio.jpg": "/siddharthenterprise/home.github.io.git/static/media/logorio.f3447276.jpg",
+    "static/media/love.gif": "/siddharthenterprise/home.github.io.git/static/media/love.77e25ee6.gif",
+    "static/media/rioo.jpg": "/siddharthenterprise/home.github.io.git/static/media/rioo.43a219b0.jpg",
+    "static/media/sid_logo.PNG": "/siddharthenterprise/home.github.io.git/static/media/sid_logo.8154ac4f.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e94034e.js",
+    "static/css/2.eb43dee1.chunk.css",
+    "static/js/2.ed406b10.chunk.js",
+    "static/css/main.fd5861b3.chunk.css",
+    "static/js/main.d1056772.chunk.js"
+  ]
+}
