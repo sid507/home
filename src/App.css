@@ -8,10 +8,12 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  width: 80%;
+/*  this is to maximize the card  */
+  width: 90%;
   margin: auto;
   box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.6),
   -30px 0px 40px rgba(0, 0, 0, 0.6);
+
 }
 
 @media(max-width:600px){
