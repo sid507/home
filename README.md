@@ -1,3 +1,4 @@
+This is project built using react js and hosted on github pages
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
