@@ -7,7 +7,7 @@ export class About extends Component {
         return (
             <div className="container">
                 <div className="about">
-
+                    <h1>Home</h1>
                 </div>
 
             </div>
